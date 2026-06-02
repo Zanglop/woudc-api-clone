@@ -275,6 +275,8 @@ resources:
         description: Connection to uv_index_hourly in the WOUDC Data Registry Search Index.
         keywords: []
         links: []
+        limits:
+            max_items: 100
         extents:
             spatial:
                 bbox:  [-180, -90, 180, 90]
